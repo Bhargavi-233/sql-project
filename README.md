@@ -1,5 +1,5 @@
 # sql-project
-# 🌍 Global Energy Consumption & Sustainability Analysis
+# 🌍Energy Consumption Analysis
 
 ![SQL](https://img.shields.io/badge/Language-SQL-orange) ![Database](https://img.shields.io/badge/Database-MySQL-blue) ![Status](https://img.shields.io/badge/Status-Completed-green)
 
